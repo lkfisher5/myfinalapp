@@ -1,6 +1,6 @@
 # LinkedIn User Prediction App
 
-This Streamlit app uses a logistic regression model to predict whether a person is a LinkedIn user based on a set of demographic and socio-economic features. It includes features such as income level, education level, marital status, gender, whether the person is a parent, and their age.
+This Streamlit app uses a logistic regression model to predict whether a person is a LinkedIn user based on a set of demographic and socio-economic features including income level, education level, whethere a person is married, gender, whether the person is a parent, and their age.
 
 ## Features
 
