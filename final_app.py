@@ -7,7 +7,7 @@ from sklearn.model_selection import train_test_split
 
 # Load the dataset and preprocess it
 def load_data():
-    s = pd.read_csv('C:/Users/linds/OneDrive/Documents/Georgetown MSBA Classwork/OPAN-6607/Final Project/social_media_usage.csv')
+    s = pd.read_csv('social_media_usage.csv')
 
 
     # Function clean_sm to clean the 'sm_li' column
